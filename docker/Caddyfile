@@ -1,6 +1,5 @@
 {
-        # ZeroSSL account
-        # acme_ca https://acme-v02.api.letsencrypt.org/
+        acme_ca https://acme-v02.api.letsencrypt.org/
         email YOUR_EMAIL
 }
 
